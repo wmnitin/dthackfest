@@ -1,0 +1,17 @@
+.captureQr {
+  .modalBody {
+    padding: 10px;
+    display: flex;
+    button {
+      margin: 10px;
+      flex: 1;
+    }
+  }
+  .error {
+    color: red;
+  }
+  .cameraImageView {
+    text-align: center;
+    overflow: scroll;
+  }
+}
